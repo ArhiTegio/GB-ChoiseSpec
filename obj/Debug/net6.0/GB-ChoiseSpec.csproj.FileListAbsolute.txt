@@ -1,0 +1,15 @@
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/bin/Debug/net6.0/GB-ChoiseSpec
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/bin/Debug/net6.0/GB-ChoiseSpec.deps.json
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/bin/Debug/net6.0/GB-ChoiseSpec.runtimeconfig.json
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/bin/Debug/net6.0/GB-ChoiseSpec.dll
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/bin/Debug/net6.0/GB-ChoiseSpec.pdb
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.csproj.AssemblyReference.cache
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.GeneratedMSBuildEditorConfig.editorconfig
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.AssemblyInfoInputs.cache
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.AssemblyInfo.cs
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.csproj.CoreCompileInputs.cache
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.dll
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/refint/GB-ChoiseSpec.dll
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.pdb
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/GB-ChoiseSpec.genruntimeconfig.cache
+/home/viktor/Geek/6.GB-ChoiseSpecialization/GB-ChoiseSpec/obj/Debug/net6.0/ref/GB-ChoiseSpec.dll
